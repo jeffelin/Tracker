@@ -1,6 +1,6 @@
 # Project Tracker
 
-A personal guide and progress tracker for mastering backend programming, specializing in AI. It includes just projects leveraging essential AI tools and data libraries.
+A personal guide and progress tracker for mastering full stack programming, specializing in AI. It includes just projects leveraging essential AI tools and data libraries.
 
 - **Start Date:** January 2025 
 - **End Goal Date:** March 2025 
