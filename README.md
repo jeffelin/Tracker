@@ -28,28 +28,28 @@ Here are the core tools and libraries I’ll use:
 
 ## 📊 Progress Tracker and Projects
 
-### Foundational Projects
-1. Tic Tac Toe game in Python. :checkmark:
-2. Matrix multiplication from scratch.  
-3. Data visualization dashboard. 
+
+### Deep Learning Projects
+1. NN from Scratch :white_check_mark:
+2. CNN for MNIST data set :white_check_mark: 
+3. Transfer learning with ResNet and MobileNet.  
+4. GAN Model to generate new images from noise.  
+5. LSTM-based model for time series forecasting.  
+---
+
+### Python Projects
+1. Tic Tac Toe game in Python :white_check_mark:
+2. Matrix multiplication from scratch 
+3. Data visualization dashboard 
 4. Analyze and visualize a public dataset 
 
 ---
 
 ### Machine Learning Projects
-1. Regression model to predict Boston house prices.  
+1. Regression model to predict Boston house prices :white_check_mark:
 2. Classification model using decision trees.  
 3. K-means clustering.
 4. Recommndation Systems with collaborative filtering.  
-
----
-
-### Deep Learning Projects
-1. NN from Scratch 
-2. CNN for MNIST data set.    
-3. Transfer learning with ResNet and MobileNet.  
-4. GAN Model to generate new images from noise.  
-5. LSTM-based model for time series forecasting.  
 
 ---
 
