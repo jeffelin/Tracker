@@ -29,7 +29,7 @@ Here are the core tools and libraries I’ll use:
 ## 📊 Progress Tracker and Projects
 
 ### Foundational Projects
-1. Tic Tac Toe game in Python.  
+1. Tic Tac Toe game in Python. :checkmark:
 2. Matrix multiplication from scratch.  
 3. Data visualization dashboard. 
 4. Analyze and visualize a public dataset 
