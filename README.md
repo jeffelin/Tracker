@@ -1,6 +1,6 @@
 # Project Tracker
 
-A personal guide and progress tracker for mastering Programming, specializing in AI. It includes just projects leveraging essential AI tools and data libraries.
+A personal guide and progress tracker for mastering backend programming, specializing in AI. It includes just projects leveraging essential AI tools and data libraries.
 
 - **Start Date:** January 2025 
 - **End Goal Date:** March 2025 
@@ -12,7 +12,7 @@ A personal guide and progress tracker for mastering Programming, specializing in
 Here are the core tools and libraries I’ll use:  
 - **Programming Language:** Python  
 - **Core Libraries:**
-  - Data Analysis & Visualization: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`  
+  - Data Analysis & Visualization: `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `Yfinance` 
   - Machine Learning: `Scikit-learn`  
   - Deep Learning: `TensorFlow`, `PyTorch`  
     <!-- <!-- - NLP: `Hugging Face`, `spaCy`, `NLTK`  
@@ -30,26 +30,27 @@ Here are the core tools and libraries I’ll use:
 
 
 ### Deep Learning Projects
-1. NN from Scratch :white_check_mark:
-2. CNN for MNIST data set :white_check_mark: 
-3. Transfer learning with ResNet and MobileNet.  
+1. NN Architecture from Scratch :white_check_mark:
+2. NN Architecture from Pytorch and Tensorflow :white_check_mark:
+3. CNN for MNIST data set :white_check_mark: 
+<!-- 3. Transfer learning with ResNet and MobileNet.  
 4. GAN Model to generate new images from noise.  
-5. LSTM-based model for time series forecasting.  
+5. LSTM-based model for time series forecasting.   -->
 ---
 
 ### Python Projects
-1. Tic Tac Toe game in Python :white_check_mark:
-2. Matrix multiplication from scratch 
-3. Data visualization dashboard 
-4. Analyze and visualize a public dataset 
+1. Tic Tac Toe Game :white_check_mark:
+2. S&P 500, Stock Price, & DNA Counter :white_check_mark:
+<!-- 3. Data visualization dashboard 
+4. Analyze and visualize a public dataset  -->
 
 ---
 
 ### Machine Learning Projects
 1. Regression model to predict Boston house prices :white_check_mark:
-2. Classification model using decision trees.  
-3. K-means clustering.
-4. Recommndation Systems with collaborative filtering.  
+2. Random Forest Classifier and Logistic Regression to predict Iris dataset :white_check_mark:
+<!-- 3. K-means clustering.
+4. Recommndation Systems with collaborative filtering.   -->
 
 ---
 
