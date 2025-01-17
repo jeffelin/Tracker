@@ -17,7 +17,7 @@ Here are the core tools and libraries I’ll use:
   - Deep Learning: `TensorFlow`, `PyTorch`  
     <!-- <!-- - NLP: `Hugging Face`, `spaCy`, `NLTK`  
     - Computer Vision: `OpenCV`, `YOLO`, `Detectron2`   -->
-  - Reinforcement Learning: `OpenAI Gym`, `Ray RLlib`   -->
+  <!-- - Reinforcement Learning: `OpenAI Gym`, `Ray RLlib`   -->
 - **App Development:**  
   - Backend: `Flask`, `FastAPI`  
   - Mobile: `Flutter`, `React Native`  
