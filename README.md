@@ -33,6 +33,7 @@ Here are the core tools and libraries I’ll use:
 1. NN Architecture from Scratch :white_check_mark:
 2. NN Architecture from Pytorch and Tensorflow :white_check_mark:
 3. CNN for MNIST data set :white_check_mark: 
+4. Transcripts AI Generator :white_check_mark: 
 <!-- 3. Transfer learning with ResNet and MobileNet.  
 4. GAN Model to generate new images from noise.  
 5. LSTM-based model for time series forecasting.   -->
