@@ -54,6 +54,8 @@ Here are the core tools and libraries I’ll use:
 <!-- 3. K-means clustering.
 4. Recommndation Systems with collaborative filtering.   -->
 
+### Full Stack 
+1. Two websites (NPO and Organization) :white_check_mark:
 ---
 
 <!-- ### App Development Projects
