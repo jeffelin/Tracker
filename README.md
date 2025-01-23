@@ -56,6 +56,7 @@ Here are the core tools and libraries I’ll use:
 
 ### Full Stack 
 1. Two websites (NPO and Organization) :white_check_mark:
+2. New full stack applications (Wildfire Predictor, Edu-Tech & Finance, Philly Cookies)
 ---
 
 <!-- ### App Development Projects
