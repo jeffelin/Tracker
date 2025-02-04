@@ -42,8 +42,9 @@ Here are the core tools and libraries I’ll use:
 ### Python Projects
 1. Tic Tac Toe Game :white_check_mark:
 2. S&P 500, Stock Price, & DNA Counter :white_check_mark:
-3. Data Visualization with Avacado, Minimum Wage, Unemployment, Diamond :white_check_mark:\
+3. Data Viz with Avacado, Minimum Wage, Unemployment, Diamond :white_check_mark:\
 4. Better data visualization platforms and frontend applications :white_check_mark: 
+5. Data Viz with Matplotlib 
 <!-- 3. Data visualization dashboard 
 4. Analyze and visualize a public dataset  -->
 
